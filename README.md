@@ -44,7 +44,7 @@ python overlay_fixed_complete_final.py
 
 - **psutil for system metrics**
 
-- **pynvml / GPUtil for GPU info
+- **pynvml / GPUtil for GPU info**
 ---
 ## 🌐 Project Website
 
